@@ -13,6 +13,7 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
+// 도메인 개발1
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
