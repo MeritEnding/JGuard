@@ -5,6 +5,8 @@ import lombok.*;
 
 import java.time.LocalDateTime;
 
+
+// 도메인 개발
 @Entity
 @Table(name = "users")
 @Data
