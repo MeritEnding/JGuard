@@ -7,7 +7,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-// 도메인 개발1
+// 도메인 개발2
 @Entity
 @Table(name = "risk_assessments")
 @Data

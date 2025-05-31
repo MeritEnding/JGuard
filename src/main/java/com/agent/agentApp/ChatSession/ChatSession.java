@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
 
-// 도메인 개발1
+// 도메인 개발2
 @Entity
 @Table(name = "chat_sessions")
 @Data
